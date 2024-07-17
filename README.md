@@ -44,7 +44,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="kavindu-mane" />
             </td>
             <td rowspan="2">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="kavindu-mane" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-mane&theme=red-green&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="kavindu-mane" />
             </td>
         </tr>
         <tr>
